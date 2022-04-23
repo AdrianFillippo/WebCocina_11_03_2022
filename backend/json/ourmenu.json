@@ -1,0 +1,52 @@
+{
+    "titulo": "Our Menu",
+    "descripcion": {
+        "parrafo1": "áLorem ipsum dolor sit amet consectetur, adipisicing elit. Error rerum adipisci, dolorem in quasi necessitatibus temporibus amet eius sunt odio eligendi? Eligendi expedita ut aspernatur id sit corporis ab ex."
+    },
+    "boton": {
+        "nombre": "View All",
+        "ruta": "#"
+    },
+    "comidas":[
+        {
+            "img": "#",
+            "titulo": "Special Salads"
+
+        },
+        {
+            "img": "#",
+            "titulo": "Special Soup"
+    
+        },
+        {
+            "img": "#",
+            "titulo": "Special Pasta"
+    
+        },
+        {
+            "img": "#",
+            "titulo": "Special Salads"
+    
+        },
+        {
+            "img": "#",
+            "titulo": "Special Salads"
+    
+        },
+        {
+            "img": "#",
+            "titulo": "Special Salads"
+    
+        },
+        {
+            "img": "#",
+            "titulo": "Special Salads"
+    
+        },
+        {
+            "img": "#",
+            "titulo": "Special Salads"
+    
+        }
+    ]
+}

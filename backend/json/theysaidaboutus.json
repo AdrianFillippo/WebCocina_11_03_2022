@@ -1,0 +1,27 @@
+{
+    "titulo": "They Said About Us",
+    "descripcion": {
+        "parrafo1": "áLorem ipsum dolor sit amet consectetur, adipisicing elit. Error rerum adipisci, dolorem in quasi necessitatibus temporibus amet eius sunt odio eligendi? Eligendi expedita ut aspernatur id sit corporis ab ex."
+    },
+    "opiniones":[
+        {
+            "img": "#",
+            "descripcion": "áLorem ipsum dolor sit amet consectetur, adipisicing elit. Error rerum adipisci, dolorem in quasi necessitatibus temporibus amet eius sunt odio eligendi? Eligendi expedita ut aspernatur id sit corporis ab ex.",
+            "nombre": "Someone Famous"
+
+        },
+        {
+            "img": "#",
+            "descripcion": "áLorem ipsum dolor sit amet consectetur, adipisicing elit. Error rerum adipisci, dolorem in quasi necessitatibus temporibus amet eius sunt odio eligendi? Eligendi expedita ut aspernatur id sit corporis ab ex.",
+            "nombre": "Someone Famous "
+    
+        },
+        {
+            "img": "#",
+            "descripcion": "áLorem ipsum dolor sit amet consectetur, adipisicing elit. Error rerum adipisci, dolorem in quasi necessitatibus temporibus amet eius sunt odio eligendi? Eligendi expedita ut aspernatur id sit corporis ab ex.",
+            "nombre": "Someone Famous"
+    
+        }
+    ]
+
+}
