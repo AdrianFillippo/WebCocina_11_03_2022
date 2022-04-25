@@ -21,9 +21,20 @@ const lista = (obj,atrr,val)=>{
 
 }
 
+const tituloDiseno = (obj,ubicacion=0,cantidad=1)=>{
+    let palabras = obj.split(" ");
+    let extraer = palabras[ubicacion].slice(0, cantidad);
+    palabras[ubicacion] = palabras[ubicacion].replace(extraer, '');
+    palabras[ubicacion] = `<span>${extraer}</span>${palabras[ubicacion]}`;
+    palabras = `<h2 class="titleText">${palabras.join(" ")}</h2>`;
+    return palabras;
+}
+
+
 export const fn = {
     descripcion,
-    lista
+    lista,
+    tituloDiseno
         
 };
 
