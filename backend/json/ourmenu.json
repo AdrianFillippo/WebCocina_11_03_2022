@@ -9,44 +9,35 @@
     },
     "comidas":[
         {
-            "img": "#",
+            "img": "multimedia\/img\/menu1.jpg",
             "titulo": "Special Salads"
 
         },
         {
-            "img": "#",
+            "img": "multimedia\/img\/menu2.jpg",
             "titulo": "Special Soup"
     
         },
         {
-            "img": "#",
+            "img": "multimedia\/img\/menu3.jpg",
             "titulo": "Special Pasta"
     
         },
         {
-            "img": "#",
+            "img": "multimedia\/img\/menu4.jpg",
             "titulo": "Special Salads"
     
         },
         {
-            "img": "#",
+            "img": "multimedia\/img\/menu5.jpg",
             "titulo": "Special Salads"
     
         },
         {
-            "img": "#",
-            "titulo": "Special Salads"
-    
-        },
-        {
-            "img": "#",
-            "titulo": "Special Salads"
-    
-        },
-        {
-            "img": "#",
+            "img": "multimedia\/img\/menu6.jpg",
             "titulo": "Special Salads"
     
         }
+        
     ]
 }

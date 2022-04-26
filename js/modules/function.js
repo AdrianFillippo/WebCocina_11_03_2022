@@ -30,11 +30,28 @@ const tituloDiseno = (obj,ubicacion=0,cantidad=1)=>{
     return palabras;
 }
 
+const listaAperitivos = (obj)=>{
+    let plantilla = "";
+    obj.comidas.forEach(element => {
+        plantilla += `
+            <div class="box">
+                <div class="imgBx">
+                  <img src="${element.img}">
+                </div>
+                <div class="text" id="text">    
+                  <h3>${element.titulo}</h3>
+                </div>
+            </div>`;
+    });  
+    return plantilla;      
+}
+
 
 export const fn = {
     descripcion,
     lista,
-    tituloDiseno
+    tituloDiseno,
+    listaAperitivos
         
 };
 
