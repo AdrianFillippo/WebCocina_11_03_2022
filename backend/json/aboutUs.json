@@ -1,8 +1,8 @@
 {
     "titulo": "About Us",
     "descripcion": {
-        "parrafo1": "áLorem ipsum dolor sit amet consectetur, adipisicing elit. Error rerum adipisci, dolorem in quasi necessitatibus temporibus amet eius sunt odio eligendi? Eligendi expedita ut aspernatur id sit corporis ab ex.",
-        "parrafo2": "áLorem ipsum dolor sit amet consectetur, adipisicing elit. Error rerum adipisci, dolorem in quasi necessitatibus temporibus amet eius sunt odio eligendi? Eligendi expedita ut aspernatur id sit corporis ab ex."
+        "parrafo1": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Error rerum adipisci, dolorem in quasi necessitatibus temporibus amet eius sunt odio eligendi? Eligendi expedita ut aspernatur id sit corporis ab ex.",
+        "parrafo2": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Error rerum adipisci, dolorem in quasi necessitatibus temporibus amet eius sunt odio eligendi? Eligendi expedita ut aspernatur id sit corporis ab ex."
     },
     "img": "multimedia\/img\/img1.jpg"
     

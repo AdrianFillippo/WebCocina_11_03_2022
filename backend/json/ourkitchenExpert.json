@@ -1,26 +1,26 @@
 {
     "titulo": "Our Kitchen Expert",
     "descripcion": {
-        "parrafo1": "áLorem ipsum dolor sit amet consectetur, adipisicing elit. Error rerum adipisci, dolorem in quasi necessitatibus temporibus amet eius sunt odio eligendi? Eligendi expedita ut aspernatur id sit corporis ab ex."
+        "parrafo1": "áLorem ipsum dolor sit amet consectetur, adipisicing elit."
     },
     "equipo":[
         {
-            "img": "#",
+            "img": "multimedia\/img\/expert1.jpg",
             "titulo": "Someone Famous"
 
         },
         {
-            "img": "#",
+            "img": "multimedia\/img\/expert2.jpg",
             "titulo": "Someone Famous "
     
         },
         {
-            "img": "#",
+            "img": "multimedia\/img\/expert3.jpg",
             "titulo": "Someone Famous"
     
         },
         {
-            "img": "#",
+            "img": "multimedia\/img\/expert4.jpg",
             "titulo": "Someone Famous"
     
         }

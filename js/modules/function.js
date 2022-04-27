@@ -45,13 +45,50 @@ const listaAperitivos = (obj)=>{
     });  
     return plantilla;      
 }
+const listaExpert = (obj)=>{
+    let expertos = "";
+    obj.equipo.forEach(element => {
+        expertos += `
+            <div class="box">
+                <div class="imgBx">
+                  <img src="${element.img}">
+                </div>
+                <div class="text" id="text">    
+                  <h3>${element.titulo}</h3>
+                </div>
+            </div>`;
+    }); 
+    return expertos;      
+}
+const testimonios2 = (obj)=>{
+    let testimo = "";
+    obj.opiniones.forEach(element => {
+        testimo += `
+            <div class="box">
+                <div class="imgBx">
+                  <img src="${element.img}">
+                </div>
+                <div class="content" id="content">    
+                  <p>${element.descripcion}</p>
+                </div>
+                <div class="text" id="text">    
+                  <h3>${element.nombre}</h3>
+                </div>
+                
+            </div>`;
+    }); 
+    return testimo;      
+}
 
 
 export const fn = {
     descripcion,
     lista,
     tituloDiseno,
-    listaAperitivos
+    listaAperitivos,
+    listaExpert,
+    testimonios2
+
         
 };
 
